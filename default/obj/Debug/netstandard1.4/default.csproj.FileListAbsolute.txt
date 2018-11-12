@@ -1,0 +1,7 @@
+C:\Users\Andro\AppData\Local\Screeps\scripts\localhost___21025\default\bin\Debug\netstandard1.4\default.deps.json
+C:\Users\Andro\AppData\Local\Screeps\scripts\localhost___21025\default\bin\Debug\netstandard1.4\default.dll
+C:\Users\Andro\AppData\Local\Screeps\scripts\localhost___21025\default\bin\Debug\netstandard1.4\default.pdb
+C:\Users\Andro\AppData\Local\Screeps\scripts\localhost___21025\default\obj\Debug\netstandard1.4\default.csproj.CoreCompileInputs.cache
+C:\Users\Andro\AppData\Local\Screeps\scripts\localhost___21025\default\obj\Debug\netstandard1.4\default.AssemblyInfo.cs
+C:\Users\Andro\AppData\Local\Screeps\scripts\localhost___21025\default\obj\Debug\netstandard1.4\default.dll
+C:\Users\Andro\AppData\Local\Screeps\scripts\localhost___21025\default\obj\Debug\netstandard1.4\default.pdb
